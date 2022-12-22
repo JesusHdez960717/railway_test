@@ -4,7 +4,7 @@ gradlew.bat
 gradlew
 
 #build folder
-#build/
+build/
 
 # Compiled Java class files
 *.class
