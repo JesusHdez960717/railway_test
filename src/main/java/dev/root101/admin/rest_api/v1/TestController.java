@@ -35,4 +35,9 @@ public class TestController {
     public String hi() {
         return "Helou world";
     }
+
+    @GetMapping("/cosita")
+    public String cosita() {
+        return "Te amo chiquillaaaaaaaaaaaaaaaaaaa";
+    }
 }
